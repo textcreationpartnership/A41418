@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Good Old Cause revived.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41418</idno>
+            <idno type="STC">Wing G1079</idno>
+            <idno type="STC">ESTC R42055</idno>
+            <idno type="EEBO-CITATION">23304348</idno>
+            <idno type="OCLC">ocm 23304348</idno>
+            <idno type="VID">109538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:18, 21241:93a, 21241:93b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Good Old Cause revived.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse: first line reads, "POets of old, about to write, did use".</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>In two settings. Copy at 2124.1:93a has title: THE/The Good Old Cause/REVIVED; copies at 1701:18 and 2124.1:93b have title: THE/Good Old Cause/REVIVED.</note>
+                  <note>Imperfect: copy at 2124.1:93a torn and stained, with loss of text.</note>
+                  <note>Reproductions of the originals in Harvard University Library (reel 1701) and British Library (reel 2124).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:109538:1"/>
+            <head>THE Good Old Cauſe REVIVED.</head>
+            <lg>
+               <l>POets of old, about to write, did uſe</l>
+               <l>T' invoke th' aſſiſtance of ſome friendly Muſe:</l>
+               <l>But now the Faſhion's almoſt laid aſide</l>
+               <l>And Muſes place by Painter is ſupply'd:</l>
+               <l>Each puny Brother of the Rhiming Trade,</l>
+               <l>At every turn, implores the Painters aid;</l>
+               <l>And fondly enamour'd of his own foul Brat,</l>
+               <l>Crys in an extacy, Paint this; Draw that;</l>
+               <l>Draw Conclaves, Fights, Plots, Fires and in a Ring</l>
+               <l>Draw evil Councellors about the King.</l>
+               <l>I fear, left being at every Fools command,</l>
+               <l>Painter, th' haſt ſpent thy Colours, tir'd thy Hand.</l>
+               <l>I'le not augment thy Labours, only ſee</l>
+               <l>If thou canſt find an ancient Draught for me,</l>
+               <l>A Draught which taken forty years ago,</l>
+               <l>Contains the Origine of <hi>Englands</hi> woe.</l>
+               <l>Look! here it is; now view a while with me</l>
+               <l>How far thoſe Diſmal Times and ours agree.</l>
+               <l>Seeſt thou a ſort of Men, Demure, Preciſe,</l>
+               <l>With Faces Scru'd, and turn'd up whites of Eyes,</l>
+               <l>Black Cloakt and double Capt, that Mounted ſtand</l>
+               <l>Aloft, with ſacred Comment in their Hand,</l>
+               <l>Teaching with new coind Phraſe, and uncouth Tone,</l>
+               <l>Till holy Siſter weep, and Brethren groan;</l>
+               <l>From theſe, thou'lt ſay, is any danger nigh?</l>
+               <l>In theſe fair Flowers do Aſps in Ambuſh lie?</l>
+               <l>Alas! Thoſe Wolves cloath'd like the harmleſs Sheep</l>
+               <l>Scatter that Flock which they pretend to keep.</l>
+               <l>Peace flies their Aſpect wereſoere they come;</l>
+               <l>By them God Scourges ſinful Chriſtendom,</l>
+               <l>Againſt <hi>Romes</hi> tiranny they Preach, in hope</l>
+               <l>Of being one day each Man a petty Pope.</l>
+               <l>Nothing can ſtand before their high-flown Zeal,</l>
+               <l>But down it muſt, be't Church or Common Weal:</l>
+               <l>Puft up with ſelf eſteem, they think that none</l>
+               <l>Heav'n Gates can enter, but their Sect alone.</l>
+               <l>They're Gods true <hi>Iſrael,</hi> Saints that never fall</l>
+               <l>When once enlightned by his Heavenly call.</l>
+               <l>Whatever oppoſite to them, doth ſtand,</l>
+               <l>With <hi>Egypt, Sodom, Babilon,</hi> they brand,</l>
+               <l>Hence tis when Fire, and Sword, and civil Hate,</l>
+               <l>Stird up by them, have overturnd a State;</l>
+               <l>When Horſes feed in Temples, where before<note place="margin">
+                     <hi>St. Pauls.</hi>
+                  </note>
+               </l>
+               <l>With Prayers and Praiſes Men did God Adore;</l>
+               <l>When Kings and Churches, ſacred Lands are ſold,</l>
+               <l>T' enrich the Rebel Saints, will ill-got Gold;</l>
+               <l>Themſelves by no leſs Guide, they Fancy led,</l>
+               <l>Than <hi>Jacobs</hi> Seed, when they from <hi>Pharaoh</hi> fled:</l>
+               <l>Crying, while hourly they new Babels build,</l>
+               <l>Babel's orethrown, the Scriptures are fulfild.</l>
+               <l>Thus were they heretofore, thus are they ſtill;</l>
+               <l>Give them but Power i'le warrant for their Will.</l>
+            </lg>
+            <lg>
+               <l>But Painter lets a little farther view;</l>
+               <l>Next in the Scene appears a long rob'd Crew,</l>
+               <l>Who, 'gainſt the King Rebellious Arms to move,</l>
+               <l>Can out of <hi>Magna Carta,</hi> Treaſon prove.</l>
+               <l>As heretofore ſome Commentators thought</l>
+               <l>That all things were in <hi>Homers</hi> Poems taught;</l>
+               <l>All Acts of Peace and War, each uſeful Trade,</l>
+               <l>Even how the <hi>Grecians</hi> well-ſoal'd Boots were made:</l>
+               <l>So can theſe Sages of the Law, with eaſe,</l>
+               <l>In <hi>Magna Carta</hi> find out what they pleaſe.</l>
+               <l>They torture her to ſpeak againſt the King</l>
+               <l>Where ſhe her ſelf (good Soul) means no ſuch thing:<note place="margin">
+                     <hi>Rich.</hi>
+                  </note>
+               </l>
+               <l>From <hi>Burdeaux, Winſors,</hi> and <hi>Carnarvans</hi> Raign,<note place="margin">2d. <hi>Hen.</hi> 6.</note>
+               </l>
+               <l>Weak Monarchs all, their Preſidents are tane.<note place="margin">
+                     <hi>Edw.</hi> 2.</note>
+               </l>
+               <l>What grants, arm'd force did from thoſe Princes draw,</l>
+               <l>They now eſteem as Fundamental Law.</l>
+               <l>Thoſe Kings, their Subjects firſt depos'd, then flew,</l>
+               <l>And are we therefore bound to do ſo too?</l>
+               <l>Where Treſons paſt, freſh Treaſons juſtify,</l>
+               <l>That Nations Ruin cannot, but be nigh.</l>
+               <l>What the fourth <hi>Henry</hi> and third <hi>Richard</hi> gave<note place="margin">
+                     <hi>Both Uſurpers.</hi>
+                  </note>
+               </l>
+               <l>To gain the People, now as due they crave.</l>
+               <l>Thus, what Uſurpers and forc'd Kings have done,</l>
+               <l>Urging as firm, they undermine the Throne.</l>
+               <l>What ſerves the Royal Cauſe, they blaſt it all</l>
+               <l>At once, by ſaying 'twas Tirannical.</l>
+               <l>A pretty way Objections to unty!</l>
+               <l>Like him that anſwerd, <hi>Bellarmine</hi> 't's a lie!</l>
+               <l>Who thus what makes againſt him may refuſe,</l>
+               <l>Ile call him Bungler if the day he looſe:</l>
+               <l>Is there no way then left, whereby to bring</l>
+               <l>Theſe popular Champions over to the King?</l>
+               <l>Preferment is their end, their Only Aim,</l>
+               <l>Stop but their mouths with this, they'l ſoon grow tame.</l>
+               <l>But Princes, by experience rendred wiſe,</l>
+               <l>Should ſcorn to uſe thoſe feeble remedies.</l>
+               <l>For one bought off, the yet remaining Tribe</l>
+               <l>Will louder bark, in hopes to get a Bribe.</l>
+            </lg>
+            <lg>
+               <l>Next theſe, the popular Nobles march along,</l>
+               <l>Painter I almoſt think thou'ſt done them wrong.</l>
+               <l>For their own Intereſt ſure they ought to be</l>
+               <l>The Bulworks to defend our Monarchy.</l>
+               <l>Of all mixt Prodigies, none more abhorr'd</l>
+               <l>Should juſtly be, then a Plebeian Lord.</l>
+               <l>And where ſuch monſtrous Births do oft appear,</l>
+               <l>Sad ſigns they are of ſome Diſaſter neer.</l>
+               <l>Part of th'ignoble Maſs, obſcure they ly</l>
+               <l>Till quickned by a ray of Majeſty.</l>
+               <l>As out of <hi>Chaos,</hi> when the old World began,</l>
+               <l>Rude Clay, by God inſpir'd, became a man:</l>
+               <l>So, by the Royal Word theſe Men refin'd,</l>
+               <l>Start up new Creatures of another kind;</l>
+               <l>Yet now ungratefully they ſeek t' orethrow</l>
+               <l>That Power, to which their Origine they ow.</l>
+               <l>
+                  <hi>Lucifer,</hi> once brighter than the Morning Star,</l>
+               <l>The Rabble of Heaven ſeduc'd 'gainſt God to War:</l>
+               <l>Nobles, who in a Kingdom diſcord breed,</l>
+               <l>Like him in manners, like him may they ſpeed.</l>
+               <l>They'd fain be Princes, fav'rites if they might,</l>
+               <l>Since not, reſolve to be Enemies for ſpight.</l>
+               <l>Againſt ill Government they daily cry,</l>
+               <l>Make long Harangues, and ſcripture Texts apply.</l>
+               <l>Kings, to your coſts they'l teach you, how unwiſe</l>
+               <l>It is, ſuch Polititions to deſpiſe.</l>
+               <l>But Painter feign, for you and Poets dare</l>
+               <l>Do all things, that theſe Men Court-minions were,</l>
+               <l>Should we then happier, than at preſent be?</l>
+               <l>Should Prince and People then nere diſagree?</l>
+               <l>'Laſs! Of the booty might they have a ſhare,</l>
+               <l>They'd ſoon conſent to fleece the Nation bare.</l>
+               <l>Painter till then, lets bid them all goodbwye,</l>
+               <l>And on the following Object caſt an eye.</l>
+            </lg>
+            <lg>
+               <l>Seeſt thou a needy rout, that next march ore</l>
+               <l>The Stage by Fate, or their own Folly poor?</l>
+               <l>Theſe Men, by want made bold, ſeek to repair</l>
+               <l>Their ſhattered Fortunes, by a civil War.</l>
+               <l>They care not be the Quarrel wrong or right;</l>
+               <l>Where there's moſt hopes of gaining there they fight.</l>
+               <l>Peace as a lazy Vertue they eſteem,</l>
+               <l>But love to Angle in a troubled Stream.</l>
+               <l>To Pleas of right, they no reſpect afford,</l>
+               <l>Nor knew a better Title than the Sword.</l>
+               <l>Unleſs emploid abroad in Forreign Wars;</l>
+               <l>For want of work they raiſe Domeſtick jars.</l>
+               <l>Religion in their Hearts they all deride,</l>
+               <l>But make a ſhew, as Intreſt them doth guide.</l>
+               <l>Hence tis that they for ruling Elders ſtand,</l>
+               <l>In hopes one day of ſharing Biſhops Land.</l>
+               <l>Who elſe would mind Church-government at home,</l>
+               <l>No more than I care who's made Pope at <hi>Rome.</hi>
+               </l>
+               <l>Now Scholar go, with one of theſe Diſpute,</l>
+               <l>By Scriptures, Councils, Fathers, him confute:</l>
+               <l>Say what thou canſt; Church-lands in t'other ſcale</l>
+               <l>Will above all thy Arguments prevail.</l>
+            </lg>
+            <lg>
+               <l>The hairbraind Rabble next the canvaſs fills,</l>
+               <l>By Airy words ſeduc'd to real Ills.</l>
+               <l>Cheated of Souls, Eſtates, Lives, all that's dear,</l>
+               <l>Taught Arms againſt the beſt of Kings to bear.</l>
+               <l>Fighting for freedom, till a Yoak they drew</l>
+               <l>On their own Necks, worſe than ere yet they knew,</l>
+               <l>Swearing they knew not what, yet changing ſtill</l>
+               <l>Their former Oaths for new, though quite as ill.</l>
+               <l>Oh! Fatal blindneſs, could we clear thoſe Eyes?</l>
+               <l>Could we but make the ſimple Vulgar wiſe?</l>
+               <l>Then might old Albion give proud <hi>France</hi> the Law,</l>
+               <l>Of whom the Chriſtian World now ſtands in aw.</l>
+               <l>Then factious Spirits at home, by all accurſt,</l>
+               <l>Might ſpit their Venome till for rage they burſt,</l>
+               <l>We ſhould not then, by home-diviſions torn</l>
+               <l>To our Friends cauſe pity, to our Enemies ſcorn.</l>
+               <l>Ah! Might I ſee thoſe happy days no more;</l>
+               <l>For Earthly Joys high Heaven would I implore.</l>
+               <l>Theſe are fond Dreams, but Painter lets awake,</l>
+               <l>And of the fartheſt North a Proſpect take,</l>
+               <l>
+                  <hi>Scotland</hi> a barren Climate, there doth ſtand,</l>
+               <l>Poſſeſt by People fit for ſuch a Land.</l>
+               <l>A Race whom mother Nature wiſely hurl'd</l>
+               <l>Into that narrow corner of the World.</l>
+               <l>She never meant that they abroad ſhould roam,</l>
+               <l>But live among their ragged Hills at home.</l>
+               <l>Impatient of her Doom, they oft have tty'd,</l>
+               <l>T' enlarge their Borders on the Engliſh ſide:</l>
+               <l>But ſtill repulſt, they to their grief have known</l>
+               <l>Their Neighbours Valour, far above their own.</l>
+               <l>
+                  <hi>Floddens</hi> and <hi>Muſcleburgs</hi> unhappy Scars</l>
+               <l>Yet mark with red, the Scottiſh Calenders.</l>
+               <l>Hence 'tis although both Scepters now are joyn'd,</l>
+               <l>That they retain ſtill a Revengeful Mind.</l>
+               <l>Bred up in Troubles which they wiſh, not fear,</l>
+               <l>They'd fain diſturb our peaceful quiet here.</l>
+               <l>They're grev'd that Brittains Sun doth never chear,</l>
+               <l>With his bright Rays their Northern Hemiſphere.</l>
+               <l>But ſhining by reflexion from afar,</l>
+               <l>Lets them be govern'd by a leſſer Star.</l>
+               <l>Still for the Kirk, they Prelacy deſpiſe,</l>
+               <l>And call it Popery in a new diſguiſe.</l>
+               <l>They've heard how <hi>Knox,</hi> and his <hi>Genevian</hi> crew</l>
+               <l>Of old, the Royal Diadem overthrew:</l>
+               <l>And now they long to ſee thoſe days again,</l>
+               <l>Brave days when Saints did over Princes raign!</l>
+               <l>Theſe Cauſes thus concurring all in one,</l>
+               <l>Joyn'd with a Nature to Rebellion prone.</l>
+               <l>No wonder if from that Tempeſtuous Sky,</l>
+               <l>Storms to diſturb our Neighbours quiet fly.</l>
+            </lg>
+            <lg>
+               <l>Concluſion</l>
+               <l>Thus Painter have we ſeen from whence aroſe,</l>
+               <l>The fatal Series of our former Woes;</l>
+               <l>Noughts left; but firſt to meditate, then tell</l>
+               <l>How far thoſe times and hours run Parallel.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>To the KING.</l>
+               <l>Great <hi>Charles,</hi> againſt whoſe Crown on either hand,</l>
+               <l>
+                  <hi>Rome</hi> and <hi>Geneva</hi> all their forces band,</l>
+               <l>Thou ſeeſt what Clouds the Airy Regions fill;</l>
+               <l>Stand firm; the times now come to ſhew thy skill.</l>
+               <l>In Calms each Paſſenger the Ship may Guide,</l>
+               <l>By Winds and Storms an Artful Pilot's try'd.</l>
+               <l>Keep faſt the Helm, on either ſide to err,</l>
+               <l>Is alike dangerous, in the middle Stear.</l>
+               <l>This People common Father, hold on ſtills</l>
+               <l>To do them good, although againſt their will.</l>
+               <l>What real Prudence dictates that purſue,</l>
+               <l>But ſlight the Murmurs of a giddy Crew.</l>
+               <l>Thus had thy Father done, we nere had known</l>
+               <l>A Tyrant ſitting on the Royal Throne.</l>
+               <l>Thus may thy Reign juſt, long, and proſperous be;</l>
+               <l>Thou in thy Subjects, Happy they in Thee.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
